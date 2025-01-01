@@ -1,0 +1,39 @@
+{
+    "departments": [
+      {
+        "name": "Computer Science",
+        "professors": [
+          {
+            "name": "Dr. Smith",
+            "id": 1,
+            "students": [
+              {
+                "name": "Alice",
+                "id": 1001
+              },
+              {
+                "name": "Charlie",
+                "id": 1002
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Biotechnology",
+        "professors": [
+          {
+            "name": "Dr. Lee",
+            "id": 2,
+            "students": [
+              {
+                "name": "Bob",
+                "id": 2001
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
